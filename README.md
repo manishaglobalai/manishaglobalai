@@ -220,8 +220,8 @@ I thrive at the intersection of **technology, strategy, and human outcomes** —
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/manisha-verma-iim19/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisha.pgp17115@iimkashipur.ac.in)
-[![Call](https://img.shields.io/badge/Call_Me-+91_7007516848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisha.vermaiim19@gmail.com)
+[![Call](https://img.shields.io/badge/Call_Me-+91_9118831414-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
 
 <br/>
 
