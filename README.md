@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manisha--verma--iim19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/manisha-verma-iim19/)
-[![Email](https://img.shields.io/badge/Email-manisha.pgp17115%40iimkashipur.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisha.pgp17115@iimkashipur.ac.in)
+[![Email](https://img.shields.io/badge/Email-manisha.vermaiim19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisha.vermaiim19@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Delhi%2FNCR%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Selective%20Roles-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -197,27 +197,7 @@ I thrive at the intersection of **technology, strategy, and human outcomes** —
 ![Agile](https://img.shields.io/badge/Agile_&_Scrum-Certified-blue?style=flat-square)
 ![AI Tools](https://img.shields.io/badge/Generative_AI_Tools-Trained-purple?style=flat-square)
 
----
 
-## 🎯 Currently Targeting
-
-```yaml
-Open To:
-  Roles:
-    - Senior Customer Success Manager / Director
-    - Senior Consultant – Digital Transformation
-    - Senior Program Manager
-    - Product Manager – Enterprise SaaS
-  Companies:
-    - Deloitte USI
-    - Salesforce
-    - Adobe
-    - MongoDB
-    - Google
-  Work Mode:
-    - Hybrid / Remote / In-Office
-  Notice Period: 15 Days or Less
-```
 
 ---
 
